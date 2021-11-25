@@ -1,16 +1,15 @@
-# palette
+[![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-blue.svg)](https://flutter.dev/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90eaf050-96a7-4de6-8359-a7d31f54c919/deploy-status)](https://app.netlify.com/sites/focused-bartik-58054a/deploys)
 
-A new Flutter project.
+# Palette Generator
 
-## Getting Started
+Flutter web based utility tool to generate color palette from any image.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Live at
+https://focused-bartik-58054a.netlify.app/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+ 
+* **Abhi Jain**
